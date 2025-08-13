@@ -126,22 +126,22 @@
 html,
 body {
   height: 100%;
-  color: #495057;
+  color: #dee2e6;
 }
 html a,
 body a {
-  color: #495057;
+  color: #dee2e6;
   text-decoration: none;
 }
 html .article-icon,
 body .article-icon {
-  color: #495057;
+  color: #dee2e6;
 }
 html .button-hover,
 body .button-hover {
   position: relative;
   overflow: hidden;
-  background: rgba(222,226,230,0.5);
+  background: rgba(255,255,255,0.1);
   border-radius: 4px;
   cursor: pointer;
 }
@@ -288,8 +288,8 @@ body .button-hover:hover::before {
   .post-content code {
     margin: 0 2px;
     padding: 1px 4px;
-    background: rgba(222,226,230,0.5);
-    color: #495057;
+    background: rgba(255,255,255,0.1);
+    color: #dee2e6;
     word-wrap: break-word;
     font-size: 14px;
     vertical-align: bottom;
@@ -404,7 +404,7 @@ body .button-hover:hover::before {
     top: 8px;
     right: 10px;
     z-index: 1;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     transition: all 0.5s;
   }
@@ -694,7 +694,7 @@ body .button-hover:hover::before {
     width: 900px;
   }
   #bottom-outer #bottom-inner {
-    color: #495057;
+    color: #dee2e6;
   }
   #return-top {
     opacity: 0;
@@ -706,7 +706,7 @@ body .button-hover:hover::before {
     line-height: 40px;
     text-align: center;
     font-size: 16px;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     z-index: 9;
   }
@@ -720,7 +720,7 @@ body .button-hover:hover::before {
     line-height: 40px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 12px;
-    color: #495057;
+    color: #dee2e6;
   }
   #footer #side-button {
     margin-top: 4px;
@@ -930,14 +930,14 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-link {
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     cursor: pointer;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count {
     margin-left: 16px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count::before {
@@ -949,7 +949,7 @@ body .button-hover:hover::before {
   #page .about {
     margin-bottom: 16px;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     line-height: 28px;
   }
@@ -968,13 +968,13 @@ body .button-hover:hover::before {
   }
   #page .about table thead tr th {
     padding: 8px 16px;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #page .about table tbody tr td {
     padding: 8px 16px;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #page .about h1,
   #page .about h2,
@@ -1053,7 +1053,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -1105,7 +1105,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 4px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -1121,7 +1121,7 @@ body .button-hover:hover::before {
     display: block;
     width: 80px;
     height: 80px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(5px);
     margin: -20px;
     z-index: -1;
@@ -1176,7 +1176,7 @@ body .button-hover:hover::before {
     height: 40px;
     text-align: center;
     line-height: 40px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -1246,7 +1246,7 @@ body .button-hover:hover::before {
   #pagination .pull-left a,
   #pagination .pull-right a {
     transition: all 0.5s;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
   }
   #pagination .pull-left {
@@ -1259,7 +1259,7 @@ body .button-hover:hover::before {
   .post-content {
     margin-bottom: 16px;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
   }
   #post .post-header .title,
@@ -1362,14 +1362,14 @@ body .button-hover:hover::before {
   #post .main-content table thead tr th,
   .post-content .main-content table thead tr th {
     padding: 8px 16px;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #post .main-content table tbody tr td,
   .post-content .main-content table tbody tr td {
     padding: 8px 16px;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #post .main-content h1,
   .post-content .main-content h1,
@@ -1486,7 +1486,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -1525,7 +1525,7 @@ body .button-hover:hover::before {
     position: relative;
     margin: 40px 0 20px 0;
     padding: 10px 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
   }
@@ -1564,7 +1564,7 @@ body .button-hover:hover::before {
     flex-direction: column;
     margin: 32px 0;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
   }
@@ -1666,7 +1666,7 @@ body .button-hover:hover::before {
     width: 300px;
     height: 100%;
     overflow: hidden;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .toggle-sidebar-info {
     margin: 16px auto 0;
@@ -1763,7 +1763,7 @@ body .button-hover:hover::before {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 2px solid rgba(222,226,230,0.5);
+    border: 2px solid rgba(255,255,255,0.1);
   }
   #sidebar .author-info .author-info-avatar .author-info-avatar-img:hover {
     animation: avatar 5s linear infinite;
@@ -1790,7 +1790,7 @@ body .button-hover:hover::before {
     margin-right: 12px;
     padding: 8px 16px 8px 22px;
     font-size: 14px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info .links-buttons .links-button .icon-dot {
     display: block;
@@ -1824,7 +1824,7 @@ body .button-hover:hover::before {
     display: block;
     width: 100%;
     height: 1px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info-articles {
     display: flex;
@@ -1863,7 +1863,7 @@ body .button-hover:hover::before {
     display: block;
     width: 1px;
     height: 32px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info-articles .article-meta.author-info-articles-tags,
   #sidebar .author-info-articles .article-meta.author-info-articles-categories {
@@ -1941,7 +1941,7 @@ body .button-hover:hover::before {
     top: 22px;
     width: 2px;
     height: 36px;
-    background: #495057;
+    background: #dee2e6;
   }
   .article-sort-item:last-child::after {
     display: none;
@@ -2027,7 +2027,7 @@ body .button-hover:hover::before {
   }
   .algolia-hit-item .algolia-hit-item-link {
     display: block;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     font-size: 14px;
     cursor: pointer;
@@ -2045,7 +2045,7 @@ body .button-hover:hover::before {
     display: block;
     height: 28px;
     line-height: 28px;
-    color: #495057;
+    color: #dee2e6;
     font-size: 14px;
   }
   #algolia-pagination {
@@ -2081,7 +2081,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 4px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -2097,7 +2097,7 @@ body .button-hover:hover::before {
     display: block;
     width: 80px;
     height: 80px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(5px);
     margin: -20px;
     z-index: -1;
@@ -2206,15 +2206,15 @@ body .button-hover:hover::before {
   }
   #comments-container .gitment-comment-header {
     padding: 4px 8px;
-    background-color: rgba(222,226,230,0.5);
+    background-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::before,
   #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::after,
   #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-comment-main,
   #comments-container .gitment-editor-main {
@@ -2222,7 +2222,7 @@ body .button-hover:hover::before {
     border-radius: 4px;
   }
   #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(222,226,230,0.5);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-tab.gitment-selected {
     background-color: transparent;
@@ -2379,8 +2379,8 @@ body .button-hover:hover::before {
   .post-content code {
     margin: 0 2px;
     padding: 1px 4px;
-    background: rgba(222,226,230,0.5);
-    color: #495057;
+    background: rgba(255,255,255,0.1);
+    color: #dee2e6;
     word-wrap: break-word;
     font-size: 14px;
     vertical-align: bottom;
@@ -2495,7 +2495,7 @@ body .button-hover:hover::before {
     top: 8px;
     right: 10px;
     z-index: 1;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     transition: all 0.5s;
   }
@@ -2785,7 +2785,7 @@ body .button-hover:hover::before {
     width: 900px;
   }
   #bottom-outer #bottom-inner {
-    color: #495057;
+    color: #dee2e6;
   }
   #return-top {
     opacity: 0;
@@ -2797,7 +2797,7 @@ body .button-hover:hover::before {
     line-height: 40px;
     text-align: center;
     font-size: 16px;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     z-index: 9;
   }
@@ -2811,7 +2811,7 @@ body .button-hover:hover::before {
     line-height: 40px;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 12px;
-    color: #495057;
+    color: #dee2e6;
   }
   #footer #side-button {
     margin-top: 4px;
@@ -3021,14 +3021,14 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-link {
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     cursor: pointer;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count {
     margin-left: 16px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count::before {
@@ -3040,7 +3040,7 @@ body .button-hover:hover::before {
   #page .about {
     margin-bottom: 16px;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     line-height: 28px;
   }
@@ -3059,13 +3059,13 @@ body .button-hover:hover::before {
   }
   #page .about table thead tr th {
     padding: 8px 16px;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #page .about table tbody tr td {
     padding: 8px 16px;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #page .about h1,
   #page .about h2,
@@ -3144,7 +3144,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -3196,7 +3196,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 4px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -3212,7 +3212,7 @@ body .button-hover:hover::before {
     display: block;
     width: 80px;
     height: 80px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(5px);
     margin: -20px;
     z-index: -1;
@@ -3267,7 +3267,7 @@ body .button-hover:hover::before {
     height: 40px;
     text-align: center;
     line-height: 40px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -3337,7 +3337,7 @@ body .button-hover:hover::before {
   #pagination .pull-left a,
   #pagination .pull-right a {
     transition: all 0.5s;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
   }
   #pagination .pull-left {
@@ -3350,7 +3350,7 @@ body .button-hover:hover::before {
   .post-content {
     margin-bottom: 16px;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
   }
   #post .post-header .title,
@@ -3453,14 +3453,14 @@ body .button-hover:hover::before {
   #post .main-content table thead tr th,
   .post-content .main-content table thead tr th {
     padding: 8px 16px;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #post .main-content table tbody tr td,
   .post-content .main-content table tbody tr td {
     padding: 8px 16px;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #post .main-content h1,
   .post-content .main-content h1,
@@ -3577,7 +3577,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -3616,7 +3616,7 @@ body .button-hover:hover::before {
     position: relative;
     margin: 40px 0 20px 0;
     padding: 10px 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
   }
@@ -3655,7 +3655,7 @@ body .button-hover:hover::before {
     flex-direction: column;
     margin: 32px 0;
     padding: 16px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 4px;
     transition: all 0.5s;
   }
@@ -3757,7 +3757,7 @@ body .button-hover:hover::before {
     width: 300px;
     height: 100%;
     overflow: hidden;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .toggle-sidebar-info {
     margin: 16px auto 0;
@@ -3854,7 +3854,7 @@ body .button-hover:hover::before {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 2px solid rgba(222,226,230,0.5);
+    border: 2px solid rgba(255,255,255,0.1);
   }
   #sidebar .author-info .author-info-avatar .author-info-avatar-img:hover {
     animation: avatar 5s linear infinite;
@@ -3881,7 +3881,7 @@ body .button-hover:hover::before {
     margin-right: 12px;
     padding: 8px 16px 8px 22px;
     font-size: 14px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info .links-buttons .links-button .icon-dot {
     display: block;
@@ -3915,7 +3915,7 @@ body .button-hover:hover::before {
     display: block;
     width: 100%;
     height: 1px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info-articles {
     display: flex;
@@ -3954,7 +3954,7 @@ body .button-hover:hover::before {
     display: block;
     width: 1px;
     height: 32px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info-articles .article-meta.author-info-articles-tags,
   #sidebar .author-info-articles .article-meta.author-info-articles-categories {
@@ -4032,7 +4032,7 @@ body .button-hover:hover::before {
     top: 22px;
     width: 2px;
     height: 36px;
-    background: #495057;
+    background: #dee2e6;
   }
   .article-sort-item:last-child::after {
     display: none;
@@ -4121,7 +4121,7 @@ body .button-hover:hover::before {
   }
   .algolia-hit-item .algolia-hit-item-link {
     display: block;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     font-size: 14px;
     cursor: pointer;
@@ -4139,7 +4139,7 @@ body .button-hover:hover::before {
     display: block;
     height: 28px;
     line-height: 28px;
-    color: #495057;
+    color: #dee2e6;
     font-size: 14px;
   }
   #algolia-pagination {
@@ -4175,7 +4175,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 4px;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 14px;
   }
@@ -4191,7 +4191,7 @@ body .button-hover:hover::before {
     display: block;
     width: 80px;
     height: 80px;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(5px);
     margin: -20px;
     z-index: -1;
@@ -4300,15 +4300,15 @@ body .button-hover:hover::before {
   }
   #comments-container .gitment-comment-header {
     padding: 4px 8px;
-    background-color: rgba(222,226,230,0.5);
+    background-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::before,
   #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::after,
   #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-comment-main,
   #comments-container .gitment-editor-main {
@@ -4316,7 +4316,7 @@ body .button-hover:hover::before {
     border-radius: 4px;
   }
   #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(222,226,230,0.5);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-tab.gitment-selected {
     background-color: transparent;
@@ -4458,8 +4458,8 @@ body .button-hover:hover::before {
   .post-content code {
     margin: 0 0.02rem;
     padding: 0.01rem 0.04rem;
-    background: rgba(222,226,230,0.5);
-    color: #495057;
+    background: rgba(255,255,255,0.1);
+    color: #dee2e6;
     word-wrap: break-word;
     font-size: 0.14rem;
     vertical-align: bottom;
@@ -4574,7 +4574,7 @@ body .button-hover:hover::before {
     top: 0.08rem;
     right: 0.1rem;
     z-index: 1;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     transition: all 0.5s;
   }
@@ -4864,7 +4864,7 @@ body .button-hover:hover::before {
     width: 90vw;
   }
   #bottom-outer #bottom-inner {
-    color: #495057;
+    color: #dee2e6;
   }
   #return-top {
     opacity: 0;
@@ -4876,7 +4876,7 @@ body .button-hover:hover::before {
     line-height: 0.4rem;
     text-align: center;
     font-size: 0.16rem;
-    color: #495057;
+    color: #dee2e6;
     cursor: pointer;
     z-index: 9;
   }
@@ -4890,7 +4890,7 @@ body .button-hover:hover::before {
     line-height: 0.4rem;
     border-top: 1px solid rgba(173,181,189,0.4);
     font-size: 0.12rem;
-    color: #495057;
+    color: #dee2e6;
   }
   #footer #side-button {
     margin-top: 0.04rem;
@@ -5120,14 +5120,14 @@ body .button-hover:hover::before {
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-link {
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     cursor: pointer;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count {
     margin-left: 0.16rem;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
   }
   #page .category-lists .category-list .category-list-item .category-list-count::before {
@@ -5139,7 +5139,7 @@ body .button-hover:hover::before {
   #page .about {
     margin-bottom: 0.16rem;
     padding: 0.16rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 0.04rem;
     line-height: 0.28rem;
   }
@@ -5158,13 +5158,13 @@ body .button-hover:hover::before {
   }
   #page .about table thead tr th {
     padding: 0.08rem 0.16rem;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #page .about table tbody tr td {
     padding: 0.08rem 0.16rem;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #page .about h1,
   #page .about h2,
@@ -5243,7 +5243,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -5295,7 +5295,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 0.04rem;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 0.14rem;
   }
@@ -5311,7 +5311,7 @@ body .button-hover:hover::before {
     display: block;
     width: 0.8rem;
     height: 0.8rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(0.05rem);
     margin: -0.2rem;
     z-index: -1;
@@ -5366,7 +5366,7 @@ body .button-hover:hover::before {
     height: 0.4rem;
     text-align: center;
     line-height: 0.4rem;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 0.14rem;
   }
@@ -5436,7 +5436,7 @@ body .button-hover:hover::before {
   #pagination .pull-left a,
   #pagination .pull-right a {
     transition: all 0.5s;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
   }
   #pagination .pull-left {
@@ -5449,7 +5449,7 @@ body .button-hover:hover::before {
   .post-content {
     margin-bottom: 0.16rem;
     padding: 0.16rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 0.04rem;
   }
   #post .post-header .title,
@@ -5550,14 +5550,14 @@ body .button-hover:hover::before {
   #post .main-content table thead tr th,
   .post-content .main-content table thead tr th {
     padding: 0.08rem 0.16rem;
-    border: 1px solid #495057;
-    background: rgba(222,226,230,0.5);
+    border: 1px solid #dee2e6;
+    background: rgba(255,255,255,0.1);
     white-space: nowrap;
   }
   #post .main-content table tbody tr td,
   .post-content .main-content table tbody tr td {
     padding: 0.08rem 0.16rem;
-    border: 1px solid #495057;
+    border: 1px solid #dee2e6;
   }
   #post .main-content h1,
   .post-content .main-content h1,
@@ -5674,7 +5674,7 @@ body .button-hover:hover::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     color: #49b1f5;
     cursor: pointer;
     transition: all 0.5s;
@@ -5713,7 +5713,7 @@ body .button-hover:hover::before {
     position: relative;
     margin: 0.4rem 0 0.2rem 0;
     padding: 0.1rem 0.16rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 0.04rem;
     transition: all 0.5s;
   }
@@ -5751,7 +5751,7 @@ body .button-hover:hover::before {
     flex-direction: column;
     margin: 0.32rem 0;
     padding: 0.16rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     border-radius: 0.04rem;
     transition: all 0.5s;
   }
@@ -5844,7 +5844,7 @@ body .button-hover:hover::before {
     width: 3rem;
     height: 100%;
     overflow: hidden;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .toggle-sidebar-info {
     margin: 0.16rem auto 0;
@@ -5941,7 +5941,7 @@ body .button-hover:hover::before {
     width: 1.2rem;
     height: 1.2rem;
     border-radius: 50%;
-    border: 0.02rem solid rgba(222,226,230,0.5);
+    border: 0.02rem solid rgba(255,255,255,0.1);
   }
   #sidebar .author-info .author-info-avatar .author-info-avatar-img:hover {
     animation: avatar 5s linear infinite;
@@ -5968,7 +5968,7 @@ body .button-hover:hover::before {
     margin-right: 0.12rem;
     padding: 0.08rem 0.16rem 0.08rem 0.22rem;
     font-size: 0.14rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info .links-buttons .links-button .icon-dot {
     display: block;
@@ -6016,7 +6016,7 @@ body .button-hover:hover::before {
     display: block;
     width: 0.01rem;
     height: 0.32rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
   }
   #sidebar .author-info-articles .article-meta.author-info-articles-tags,
   #sidebar .author-info-articles .article-meta.author-info-articles-categories {
@@ -6094,7 +6094,7 @@ body .button-hover:hover::before {
     top: 0.22rem;
     width: 0.02rem;
     height: 0.36rem;
-    background: #495057;
+    background: #dee2e6;
   }
   .article-sort-item:last-child::after {
     display: none;
@@ -6180,7 +6180,7 @@ body .button-hover:hover::before {
   }
   .algolia-hit-item .algolia-hit-item-link {
     display: block;
-    color: #495057;
+    color: #dee2e6;
     text-decoration: none;
     font-size: 0.14rem;
     cursor: pointer;
@@ -6198,7 +6198,7 @@ body .button-hover:hover::before {
     display: block;
     height: 0.28rem;
     line-height: 0.28rem;
-    color: #495057;
+    color: #dee2e6;
     font-size: 0.14rem;
   }
   #algolia-pagination {
@@ -6234,7 +6234,7 @@ body .button-hover:hover::before {
     text-decoration: none;
     overflow: hidden;
     border-radius: 0.04rem;
-    color: #495057;
+    color: #dee2e6;
     transition: all 0.5s;
     font-size: 0.14rem;
   }
@@ -6250,7 +6250,7 @@ body .button-hover:hover::before {
     display: block;
     width: 0.8rem;
     height: 0.8rem;
-    background: rgba(222,226,230,0.5);
+    background: rgba(255,255,255,0.1);
     filter: blur(0.05rem);
     margin: -0.2rem;
     z-index: -1;
@@ -6359,15 +6359,15 @@ body .button-hover:hover::before {
   }
   #comments-container .gitment-comment-header {
     padding: 4px 8px;
-    background-color: rgba(222,226,230,0.5);
+    background-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::before,
   #comments-container .gitment-comment-main::before {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-main::after,
   #comments-container .gitment-comment-main::after {
-    border-right-color: rgba(222,226,230,0.5);
+    border-right-color: rgba(255,255,255,0.1);
   }
   #comments-container .gitment-comment-main,
   #comments-container .gitment-editor-main {
@@ -6375,7 +6375,7 @@ body .button-hover:hover::before {
     border-radius: 4px;
   }
   #comments-container .gitment-editor-header {
-    border-bottom: 1px solid rgba(222,226,230,0.5);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
   }
   #comments-container .gitment-editor-tab.gitment-selected {
     background-color: transparent;
