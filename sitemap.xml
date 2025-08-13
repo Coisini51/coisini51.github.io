@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coisini51.github.io/2025/08/12/hello-world/</loc>
+    
+    <lastmod>2025-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://coisini51.github.io/tags/index.html</loc>
     
     <lastmod>2025-08-13</lastmod>
@@ -28,15 +37,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://coisini51.github.io/2025/08/12/hello-world/</loc>
-    
-    <lastmod>2025-08-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://coisini51.github.io/</loc>
@@ -54,21 +54,7 @@
   </url>
   
   <url>
-    <loc>https://coisini51.github.io/tags/github/</loc>
-    <lastmod>2025-08-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://coisini51.github.io/tags/Java/</loc>
-    <lastmod>2025-08-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://coisini51.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://coisini51.github.io/tags/Markdown/</loc>
     <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -77,14 +63,14 @@
 
   
   <url>
-    <loc>https://coisini51.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
+    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://coisini51.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/hexo/</loc>
+    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/</loc>
     <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
