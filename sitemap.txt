@@ -1,11 +1,14 @@
-https://coisini51.github.io/2025/08/12/hello-world/
-https://coisini51.github.io/categories/index.html
 https://coisini51.github.io/schedule/index.html
-https://coisini51.github.io/about/index.html
+https://coisini51.github.io/2025/08/12/hello-world/
+https://coisini51.github.io/tags/Java/index.html
 https://coisini51.github.io/tags/index.html
+https://coisini51.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/index.html
+https://coisini51.github.io/categories/index.html
+https://coisini51.github.io/about/index.html
 https://coisini51.github.io/
 https://coisini51.github.io/tags/hexo/
 https://coisini51.github.io/tags/github/
+https://coisini51.github.io/tags/Java/
 https://coisini51.github.io/tags/%E5%8D%9A%E5%AE%A2/
 https://coisini51.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/
 https://coisini51.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/hexo/
