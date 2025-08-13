@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>july的博客</title>
+  
+  
+  <link href="https://coisini51.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://coisini51.github.io/"/>
+  <updated>2025-08-13T08:53:10.555Z</updated>
+  <id>https://coisini51.github.io/</id>
+  
+  <author>
+    <name>july</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello hexo!</title>
+    <link href="https://coisini51.github.io/2025/08/12/hello-world/"/>
+    <id>https://coisini51.github.io/2025/08/12/hello-world/</id>
+    <published>2025-08-12T03:47:15.937Z</published>
+    <updated>2025-08-13T08:53:10.555Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://hexo.io/">Hexo</a>的入门使用。<br>这是我的第一篇文章。 如果需要更多信息，可以去查看<a href="https://hexo.io/docs/">官方文档</a>要是在使用Hexo时遇到问题，可以去<a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>里找答案，也可以去<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上提问。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>默认情况下，我新建的文章会保存在 source&#x2F;_posts 文件夹里。可以通过 _config.yml 里的 new_post_name 配置自定义文件名格式（比如用 :year-:month-:day-:title.md 加上创建日期）<br>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="快速清除缓存生成静态文件并部署"><a href="#快速清除缓存生成静态文件并部署" class="headerlink" title="快速清除缓存生成静态文件并部署"></a>快速清除缓存生成静态文件并部署</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure><p>上传新文章可直接复制使用</p><span id="more"></span><h2 id="命令解析"><a href="#命令解析" class="headerlink" title="命令解析"></a>命令解析</h2><h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>首先，我得安装服务器插件：npm install hexo-server –save。现已安装好。然后，我就可以运行服务器了。 服务器默认会跑在 <a href="http://localhost:4000。">http://localhost:4000。</a> 如果想改端口（比如改成 5000），我可以用 hexo server -p 5000。服务器会自动监测文件变化。<br>更多信息： <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure><p>这个命令会帮我的网站生成静态文件。我要是加上 –watch 选项，它就能监测文件变化并自动重新生成了，<br>比如 :</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate --watch</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>首先，我得装个部署插件（比如用 Git 部署的话，就装 npm install hexo-deployer-git –save）。现已安装好。<br>然后在 _config.yml 里配置好部署信息（指定 type、repo 这些）。我还可以生成文件后直接部署，用 hexo generate –deploy 或者 hexo deploy –generate 就行。<br>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;的入门使用。&lt;br&gt;这是我的第一篇文章。 如果需要更多信息，可以去查看&lt;a href=&quot;https://hexo.io/docs/&quot;&gt;官方文档&lt;/a&gt;要是在使用Hexo时遇到问题，可以去&lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt;里找答案，也可以去&lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;上提问。&lt;/p&gt;
+&lt;h2 id=&quot;快速开始&quot;&gt;&lt;a href=&quot;#快速开始&quot; class=&quot;headerlink&quot; title=&quot;快速开始&quot;&gt;&lt;/a&gt;快速开始&lt;/h2&gt;&lt;h3 id=&quot;创建新文章&quot;&gt;&lt;a href=&quot;#创建新文章&quot; class=&quot;headerlink&quot; title=&quot;创建新文章&quot;&gt;&lt;/a&gt;创建新文章&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;默认情况下，我新建的文章会保存在 source&amp;#x2F;_posts 文件夹里。可以通过 _config.yml 里的 new_post_name 配置自定义文件名格式（比如用 :year-:month-:day-:title.md 加上创建日期）&lt;br&gt;更多信息: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;快速清除缓存生成静态文件并部署&quot;&gt;&lt;a href=&quot;#快速清除缓存生成静态文件并部署&quot; class=&quot;headerlink&quot; title=&quot;快速清除缓存生成静态文件并部署&quot;&gt;&lt;/a&gt;快速清除缓存生成静态文件并部署&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;上传新文章可直接复制使用&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术工具" scheme="https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="hexo" scheme="https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://coisini51.github.io/tags/hexo/"/>
+    
+    <category term="Markdown" scheme="https://coisini51.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
