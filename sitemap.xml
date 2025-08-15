@@ -56,20 +56,6 @@
 
   
   <url>
-    <loc>https://coisini51.github.io/tags/hexo/</loc>
-    <lastmod>2025-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://coisini51.github.io/tags/Markdown/</loc>
-    <lastmod>2025-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://coisini51.github.io/tags/redis/</loc>
     <lastmod>2025-08-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,21 +69,21 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://coisini51.github.io/tags/hexo/</loc>
+    <lastmod>2025-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://coisini51.github.io/tags/Markdown/</loc>
+    <lastmod>2025-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-  
-  <url>
-    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2025-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/</loc>
-    <lastmod>2025-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://coisini51.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
@@ -107,7 +93,21 @@
   </url>
   
   <url>
+    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2025-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://coisini51.github.io/categories/%E5%90%8E%E7%AB%AF/%E7%BC%93%E5%AD%98/</loc>
+    <lastmod>2025-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/</loc>
     <lastmod>2025-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
