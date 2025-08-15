@@ -4,11 +4,11 @@ https://coisini51.github.io/tags/index.html
 https://coisini51.github.io/categories/index.html
 https://coisini51.github.io/about/index.html
 https://coisini51.github.io/
-https://coisini51.github.io/tags/hexo/
-https://coisini51.github.io/tags/Markdown/
 https://coisini51.github.io/tags/redis/
 https://coisini51.github.io/tags/%E7%BC%93%E5%AD%98/
-https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/
-https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/
+https://coisini51.github.io/tags/hexo/
+https://coisini51.github.io/tags/Markdown/
 https://coisini51.github.io/categories/%E5%90%8E%E7%AB%AF/
+https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/
 https://coisini51.github.io/categories/%E5%90%8E%E7%AB%AF/%E7%BC%93%E5%AD%98/
+https://coisini51.github.io/categories/%E6%8A%80%E6%9C%AF%E5%B7%A5%E5%85%B7/hexo/
